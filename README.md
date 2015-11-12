@@ -19,7 +19,7 @@ iOS helper for easy sharing with email, message or social networks like facebook
 
 ```
 platform :ios, '6.0'
-pod 'LGSharing', '~> 1.0.0'
+pod 'LGSharing', :git => 'https://github.com/Friend-LGA/LGSharing.git'
 ```
 
 ## Usage
